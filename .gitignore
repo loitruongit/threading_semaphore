@@ -1,0 +1,5 @@
+/.vs
+/Application/obj
+/Application/bin
+/threading_semaphore/obj
+/threading_semaphore/bin
